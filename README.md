@@ -1,1 +1,1 @@
-"# HLCV-Project-Pose-Detection-for-Sign-Language-Recognition" 
+Final project for High Level Computer Vision. Performed data augmentation on a sign language dataset using open source pose estimation software to try and improve accuracy of Sign Language Recognition.
